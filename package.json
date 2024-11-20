@@ -1,0 +1,11 @@
+{
+  "name": "geolocatio-management-system",
+  "version": "1.0.0",
+  "description": "this app is design to help with geolacation of products from one end to another",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "paulmike",
+  "license": "ISC"
+}
